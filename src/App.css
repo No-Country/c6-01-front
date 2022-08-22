@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+html {
+  /*para que el fondo se adapte al tamaño de la
+      pantalla*/
+  height: auto;
+  min-height: 100%;
+  scroll-behavior: smooth;
+}
