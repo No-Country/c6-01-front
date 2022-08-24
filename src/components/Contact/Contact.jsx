@@ -4,6 +4,8 @@ import "./contact.scss";
 const Contact = () => {
 
     const [isChecked, setIsChecked] = useState(false);
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
 
     return (
         <>
@@ -32,11 +34,15 @@ const Contact = () => {
                         </div>
                         <h2 className="label text">Dirección de correo electrónico</h2>
                         <div className="rounded-grey text register">
-                            <input className="text" placeholder="nombre@mail.com" />
+                            <input className="text" placeholder="nombre@mail.com" 
+                                value={email} onChange={(e) => setEmail(e.target.value)}
+                            />
                         </div>
                         <h2 className="label text">Contraseña</h2>
                         <div className="rounded-grey text register">
-                            <input className="text" placeholder="8 caracteres (1 mayúscula - 1 número)" />
+                            <input className="text" placeholder="8 caracteres (1 mayúscula - 1 número)" 
+                                value={password} onChange={(e) => setPassword(e.target.value)}
+                            />
                         </div>
                         <div className="forgot-password">
                             <p>Olvidaste la contraseña?</p>
