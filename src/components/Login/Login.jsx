@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import "./contact.scss";
+import "./login.scss";
 
-const Contact = () => {
+const Login = () => {
 
     const [isChecked, setIsChecked] = useState(false);
     const [email, setEmail] = useState("");
@@ -63,4 +63,4 @@ const Contact = () => {
     )
 }
 
-export default Contact
+export default login
