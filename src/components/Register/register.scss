@@ -43,15 +43,16 @@ $color-principal: #011826;
 .flex-col p {
     font-weight: 500;
     font-size: 14px;
+    margin-bottom: 0.75rem;
 }
 
 .padding-white {
-    padding-top: 35px;
+    padding-top: 30px;
 }
 
 .rounded-grey {
     width: 482px;
-    height: 26px;
+    height: 20px;
     background-color: #D9D9D9;
     color: #5D9EA6;
     border-radius: 56px;
@@ -91,24 +92,6 @@ $color-principal: #011826;
     font-size: 14px;
     font-weight: 800;
     font-family: 'Roboto', sans-serif;
-}
-
-.line {
-    width: 482px;
-    display: flex;
-    margin: auto;
-    justify-content: space-between;
-    color: #8C4A3B;
-    align-items: center;
-    margin-bottom: 1.5rem;
-}
-
-.line hr {
-    width: 202px;
-    color: #8C4A3B;
-    border-width: 0px;
-    background-color: #8C4A3B;
-    height: 1px;
 }
 
 .text {

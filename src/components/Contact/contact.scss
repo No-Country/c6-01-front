@@ -141,18 +141,6 @@ $color-principal: #011826;
     justify-content: center;
     justify-items: center;
 }
-.remember-div {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-.remember {
-    width: 20px;
-    height: 20px;
-    border: 1px solid #5D9EA6;
-    border-radius: 4px;
-    outline: none;
-    margin-right: 4px;
-}
 
 .login-button {
     width: 100%;
@@ -175,4 +163,31 @@ $color-principal: #011826;
 .white-button {
     background-color: white;
     border: 1px solid #011826;
+}
+
+.rounded-grey-text-area {
+    width: 482px;
+    height: 190px;
+    background-color: #D9D9D9;
+    color: #5D9EA6;
+    border-radius: 56px;
+    display: flex;
+    padding: 1rem;
+    justify-content: start;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 23px;
+}
+
+.rounded-grey-text-area input {
+    background-color: inherit;
+    border-width: 0px;
+    width: 300px;
+    margin-left: 2rem;
+    padding: 1rem;
+    outline: none;
+}
+
+.rounded-grey-text-area input::placeholder {
+    color: #5D9EA6;
 }
