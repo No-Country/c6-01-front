@@ -21,11 +21,11 @@ const Login = () => {
                     <div className="container">
                         <div className="rounded-grey text">
                             <img className="img-auth" src="/google.png" />
-                            <p>Iniciá sesión en Google</p>
+                            <p>Iniciá sesión con Google</p>
                         </div>
                         <div className="rounded-grey text">
                             <img className="img-auth" src="/facebook.png" />
-                            <p>Iniciá sesión en Facebook</p>
+                            <p>Iniciá sesión con Facebook</p>
                         </div>
                         <div className='line'>
                             <hr />
