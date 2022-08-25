@@ -15,3 +15,9 @@ html {
   min-height: 100%;
   scroll-behavior: smooth;
 }
+
+body 
+{
+  background-color: black;
+  color: white;
+}

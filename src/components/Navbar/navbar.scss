@@ -1,0 +1,26 @@
+.nav-button {
+  box-sizing: border-box;
+  background-color: transparent;
+  /* blanco */
+
+  border: 1px solid #ffffff;
+  border-radius: 31px;
+  padding: 14px 24px;
+   /* M3/label/large */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1px;
+
+  /* blanco */
+
+  color: #ffffff;
+}
