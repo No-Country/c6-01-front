@@ -26,3 +26,4 @@ Figma:https://www.figma.com/file/A022huDTLWFkDDVUCISFk6/Cohorte6?node-id=0%3A1
 <img width="660" alt="uni_UBA" src="https://user-images.githubusercontent.com/112130201/187045126-ea687fe7-fe45-4a70-ab88-ccd786605769.png">
 
 ![uni_QUILMES](https://user-images.githubusercontent.com/112130201/187050425-e4a936b6-66be-4240-aa76-946632524e8c.jpg)
+![uni_ROSARIO](https://user-images.githubusercontent.com/112130201/187050468-90727764-7004-4610-a566-f1e59938db55.jpg)
