@@ -6,6 +6,26 @@
 - Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
 
 Figma:https://www.figma.com/file/A022huDTLWFkDDVUCISFk6/Cohorte6?node-id=0%3A1
+
+# Bienvenidos al repositorio de **DondeEstudio.com**
+
+En este sitio encontrarás todas las universidades y sus respectivas calificaciones en base a lo que los usuarios opinen. 
+Registrándote podes calificar y opinar sobre carreras y universidades y asi elejir la que mas te convenga.
+
+**Stack/Tecnologías:**
+<p>Figma, 
+
+**Roles de cada integrante:**
+<p>Valeria Heredia ()
+<p>Facundo Cabrera ()
+<p>Tobias Ariel Selva ()
+<p>Cyntia Flores (Ux-UI designer)
+<p>Javier García (TL)
+
+**Link del Deploy:**![logo web donde estudio](https://user-images.githubusercontent.com/112130201/187300921-2bf28735-c663-42c1-a47a-64c0d68acfd2.png)
+
+
+
 ![logo la plata](https://user-images.githubusercontent.com/112130201/187045048-f83b1816-0811-46e8-87c3-fe71ae6e08d1.png)
 <img width="105" alt="logounicordoba" src="https://user-images.githubusercontent.com/112130201/187045050-4031d4cf-af16-4e64-96ee-caefbcfb8a71.png">
 <img width="88" alt="logounidelsur" src="https://user-images.githubusercontent.com/112130201/187045051-2290ffeb-5ae0-4b9b-bade-315867350956.png">
