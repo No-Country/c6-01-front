@@ -1,28 +1,29 @@
 # UNIVERSITY APP
 
 - Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
-- Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
-- Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
-- Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
 
 Figma:https://www.figma.com/file/A022huDTLWFkDDVUCISFk6/Cohorte6?node-id=0%3A1
 
+
+![logo web donde estudio](https://user-images.githubusercontent.com/112130201/187300921-2bf28735-c663-42c1-a47a-64c0d68acfd2.png)
 # Bienvenidos al repositorio de **DondeEstudio.com**
 
-En este sitio encontrarás todas las universidades y sus respectivas calificaciones en base a lo que los usuarios opinen. 
-Registrándote podes calificar y opinar sobre carreras y universidades y asi elejir la que mas te convenga.
+Esta página web fue creada para encontrar las universidades nacionales y sus respectivas calificaciones en base a lo que los usuarios opinen. 
+Registrándote podes calificar y opinar sobre carreras y universidades y asi elegir la que más te convenga.
+
+![encontra tu uni](https://user-images.githubusercontent.com/112130201/187309476-7641a554-b1a5-4920-bf60-7d86236ae5d1.png)
 
 **Stack/Tecnologías:**
-<p>Figma, 
+<p>Figma, React sass c# .NET
 
 **Roles de cada integrante:**
 <p>Valeria Heredia ()
-<p>Facundo Cabrera ()
-<p>Tobias Ariel Selva ()
-<p>Cyntia Flores (Ux-UI designer)
+<p>Facundo Cabrera (fullstack .net y react)
+<p>Tobias Ariel Selva (Fullstack react y .net)
+<p>Cyntia Flores (Ux-UI designer) http://linkedin.com/in/cyntiaflores
 <p>Javier García (TL)
 
-**Link del Deploy:**![logo web donde estudio](https://user-images.githubusercontent.com/112130201/187300921-2bf28735-c663-42c1-a47a-64c0d68acfd2.png)
+**Link del Deploy:**
 
 
 
