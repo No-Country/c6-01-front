@@ -14,7 +14,7 @@ Registrándote podes calificar y opinar sobre carreras y universidades y asi ele
 <p>- Facundo Cabrera (Fullstack .net y react)
 <p>- Tobias Ariel Selva (Fullstack react y .net) https://www.linkedin.com/in/tobias-selva
 <p>- Cyntia Flores (Ux-UI designer) http://linkedin.com/in/cyntiaflores
-<p>- Javier García (TL)
+<p>- Javier García (TL) https://www.linkedin.com/in/garcia-javier/
 
 **Link del Deploy:**
   
