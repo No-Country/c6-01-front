@@ -1,10 +1,3 @@
-# UNIVERSITY APP
-
-- Cyntia Flores(UI-UX Designer):http://linkedin.com/in/cyntiaflores
-
-Figma:https://www.figma.com/file/A022huDTLWFkDDVUCISFk6/Cohorte6?node-id=0%3A1
-
-
 ![logo web donde estudio](https://user-images.githubusercontent.com/112130201/187300921-2bf28735-c663-42c1-a47a-64c0d68acfd2.png)
 # Bienvenidos al repositorio de **DondeEstudio.com**
 
@@ -17,13 +10,16 @@ Registrándote podes calificar y opinar sobre carreras y universidades y asi ele
 <p>Figma, React sass c# .NET
 
 **Roles de cada integrante:**
-<p>Valeria Heredia ()
-<p>Facundo Cabrera (fullstack .net y react)
-<p>Tobias Ariel Selva (Fullstack react y .net)
-<p>Cyntia Flores (Ux-UI designer) http://linkedin.com/in/cyntiaflores
-<p>Javier García (TL)
+<p>- Valeria Heredia (Backend .net)
+<p>- Facundo Cabrera (Fullstack .net y react)
+<p>- Tobias Ariel Selva (Fullstack react y .net) https://www.linkedin.com/in/tobias-selva
+<p>- Cyntia Flores (Ux-UI designer) http://linkedin.com/in/cyntiaflores
+<p>- Javier García (TL)
 
 **Link del Deploy:**
+  
+**Podes ver el trabajo realizado en figma en este link:**
+ <p> https://www.figma.com/file/A022huDTLWFkDDVUCISFk6/Cohorte6?node-id=0%3A1
 
 
 
