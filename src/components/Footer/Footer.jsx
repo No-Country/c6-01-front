@@ -1,6 +1,8 @@
 import React from "react";
 import "./footer.scss";
 import logo from "../../assets/logo.png";
+import { FaInstagram, FaFacebook,FaTwitter} from "react-icons/fa";
+
 function Footer() {
   return (
     <footer className="wrapper">
@@ -26,9 +28,9 @@ function Footer() {
             <div className="item">
               <h3>SocialMedia</h3>
               <ul>
-                <li>Instagram</li>
-                <li>Facebook</li>
-                <li>Twitter</li>
+                <li><span><FaInstagram/></span>Instagram</li>
+                <li><span><FaFacebook/></span>Facebook</li>
+                <li><span><FaTwitter/></span>Twitter</li>
               </ul>
             </div>
             <div className="item">

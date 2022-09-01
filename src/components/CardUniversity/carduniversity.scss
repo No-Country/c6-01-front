@@ -1,0 +1,43 @@
+.card-uni-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  .number
+  {
+    background-color: #8C4A3B;
+    border-radius: 50%;
+    padding: 10px 10px;
+    text-align: center;
+    border: none;
+    color: white;
+  }
+  .first-row {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 24px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  img {
+    object-fit: cover;
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+  }
+  .third-row {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

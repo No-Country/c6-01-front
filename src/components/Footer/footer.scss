@@ -1,11 +1,11 @@
 .wrapper {
-  position: absolute;
+  position: relative;
   bottom: 0;
   right: 0;
   left: 0;
   padding: 10px;
   background-color: #011826;
-
+  font-family: "Roboto";
   .footer-bottom {
     display: flex;
     justify-content: space-between;
@@ -72,9 +72,17 @@
           width: 100px;
         }
         li {
+          display: flex;
+          align-items: center;
           font-size: 15px;
           list-style: none;
           margin-top: 20px;
+          span
+          {
+            font-size: 15px;
+            margin-top: 4px;
+            margin-right: 4px;
+          }
         }
         .item {
           margin: 0 40px;
