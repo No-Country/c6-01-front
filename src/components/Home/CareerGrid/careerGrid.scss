@@ -1,0 +1,60 @@
+.careers-grid {
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    color: black;
+    padding-top: 77px;
+    padding-bottom: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.h1 {
+    font-size: 50px;
+    margin-top: 70px;
+    font-weight: 500;
+    color: #8C4A3B;
+    letter-spacing: -0.25px;
+}
+
+.h2 {
+    font-size: 64px;
+    font-weight: 900;
+    color: #8C4A3B;
+    letter-spacing: -0.25px;
+    margin-bottom: 66px;
+}
+
+
+.carts-container {
+    width: 98vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.filterbar {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.button {
+    background-color: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 31px;
+    margin: 8px 12px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.button:hover {
+    background-color: #011826;
+    color: white;
+}
