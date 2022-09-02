@@ -1,32 +1,23 @@
 import { useState } from "react";
-
-import "./App.css";
 import Home from "./components/Home/Home";
 import Login from "./components/Login/Login";
 import Register from "./components/Register/Register";
 import Contact from "./components/Contact/Contact";
-import Cart from "./components/Cart/Cart";
+import CareerGrid from "./components/Home/CareerGrid/CareerGrid";
+import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
+import Cart from "./components/Home/CareerGrid/Cart/Cart";
+
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div>
-      <Cart data={cart}/>
-      <Cart data={cart}/>
-      <Cart data={cart}/>
-    </div>
+    <>
+      <Navbar />
+      <Home />
+      <Footer />
+    </> 
   );
 }
 
 export default App;
-
-const cart = {
-  tittle: "Ingenieria en Informatica",
-  image: "campus.jpeg",
-  nivelAcademico: 4,
-  accesoTransportePublico: 3,
-  nivelProfesores: 3,
-  ambiente: 4,
-  demandaHoraria: 4
-}

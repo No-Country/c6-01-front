@@ -1,0 +1,29 @@
+.container-levelbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding-top: 8px;
+}
+
+.item {
+    width: 20px;
+    height: 10px;
+    margin: 1px;
+}
+
+.color{
+    background-color: #011826;
+}
+
+.no-color{
+    background-color: #A8BBBF;
+}
+
+.container-levelbar p {
+    font-size: 12px;
+    font-weight: 900;
+    width: 75px;
+    text-align: center;
+    margin-top: 5px;
+}

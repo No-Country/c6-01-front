@@ -1,0 +1,39 @@
+.navbar
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #011826;
+  flex-wrap: wrap;
+  .user-icon
+  {
+    font-size: 38px;
+    margin-right: 20px;
+  }
+}
+.nav-button {
+  margin: 15px;
+  
+  box-sizing: border-box;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ffffff;
+  border-radius: 31px;
+  padding: 14px 74px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  opacity: 0.5;
+  transition: all .4s ease-in-out;
+  &:hover
+  {
+    opacity: 1;
+    cursor: pointer;
+  }
+}

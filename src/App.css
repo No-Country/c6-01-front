@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -15,3 +16,10 @@ html {
   min-height: 100%;
   scroll-behavior: smooth;
 }
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Roboto Mono", monospace;
+}
+
