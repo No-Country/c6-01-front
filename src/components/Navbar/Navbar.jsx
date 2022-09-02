@@ -1,21 +1,30 @@
 import React from "react";
 import logo from "../../assets/logo.png";
 import { FaRegUserCircle } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
 import "./navbar.scss";
 function Navbar() {
   return (
     <div>
       <nav className="navbar">
-        <img src={logo} />
+        <NavLink to={"/"}>
+          <img src={logo} />
+        </NavLink>
+
         <button className="nav-button">Careers</button>
         <button className="nav-button">Universities</button>
-        <button className="nav-button">Sign Up</button>
-        <button
+        <NavLink to={"/register"} className="nav-button">
+          Sign Up
+        </NavLink>
+
+        <NavLink
+          to={"/login"}
           className="nav-button"
           style={{ backgroundColor: "#A8BBBF", color: "black", opacity: "1" }}
         >
           Sign In
-        </button>
+        </NavLink>
+
         <FaRegUserCircle className="user-icon" />
       </nav>
     </div>

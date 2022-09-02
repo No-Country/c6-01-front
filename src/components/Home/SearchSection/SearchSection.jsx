@@ -3,7 +3,7 @@ import "./searchSection.scss";
 
 const SearchSection = (props) => {
 
-    const { careers, setCareers } = props
+    const { careers, setCareers, careersInitialValue } = props
 
     const [searchValue, setSearchValue] = useState("");
 
@@ -11,6 +11,11 @@ const SearchSection = (props) => {
         let value = careers.filter(x => x.tittle.includes(searchValue.toLowerCase()));
         console.log(value)
         setCareers(value);
+    }
+
+    const handleDelete = () => {
+        setSearchValue("");
+        setCareers(careersInitialValue);
     }
 
   return (
@@ -37,7 +42,7 @@ const SearchSection = (props) => {
                     </div>
                     <div className='flex'>
                         <button onClick={handleClick} className="button-search button-search-buscar">Buscar</button>
-                        <button onClick={(e) => setSearchValue("")} className="button-search">Borrar</button>
+                        <button onClick={handleDelete} className="button-search">Borrar</button>
                     </div>
                 </div>
             </div>

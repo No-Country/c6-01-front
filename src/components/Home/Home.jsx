@@ -16,6 +16,7 @@ function Home() {
       <SearchSection 
         setCareers={setCareers}
         careers={careers}
+        careersInitialValue={careersInitialValue}
       />
       <CareerGrid 
         setCareers={setCareers}
